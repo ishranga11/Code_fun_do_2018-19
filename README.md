@@ -14,19 +14,19 @@ It connects first responders with victims and gives them relevant information re
 ## Who will use and how will it function ? 
 ### Victims:
 - Raising funds for them by identifying areas with high density of victims.
-- Using Chatbot to interact with them using our application or if internet is not available  using default SMS app in mobile phones.
-- Using AI-Based facial recognition and taking other relevant details from people whose acquaintances are missing to let them know if they are found at disaster affected sites and hospitals.
+- Using **Chatbot** to interact with them using our application or if internet is not available  using default SMS app in mobile phones.
+- Using **AI-Based facial recognition** and taking other relevant details from people whose acquaintances are missing to let them know if they are found at **disaster affected sites** and **hospitals.**
 ### Citizens:
-- We  use weather data and  satellite images then apply ML to identify safe places and  develop an algorithm for identification for safe routes . 
-- We also  leverage the power of crowdsourcing knowledge in social media and propose a way to forecast and generate alerts for city-level.
+- We  use weather data and  satellite images then apply ML to identify **safe places** and  develop an algorithm for identification for **safe routes .** 
+- We also  leverage the power of crowdsourcing knowledge in social media and propose a way to **forecast** and **generate** alerts for city-level.
 - We first collect adverse weather topics and reports of traffic incidents from social media. Then, we extract temporal, spatial, and meteorological features as well as labeled traffic reaction values corresponding to the social media “heat” for each city. Afterwards, the regression and alerting model is proposed to estimate the city-level traffic situation and give the suggestion of warning level.
 - We identify people in affected area using location and gprs  tell them where to go and what instructions to follow .
 
 ### First responders : 
 
-- They are provided with information collected from chatbot and location
-- We are using AI-based image recognition and classification to assess the damage by analyzing and observing images from the satellites. It will identify objects and features such as damaged buildings, flooding, blocked roads from these images. It can also identify temporary settlements which may indicate that people are homeless, and so the first care could be directed towards them.
-- We crunch data from multiple resources and use Machine learning approaches to combine all this together, remove unreliable data, and identify informative sources to generate heat maps. These heat maps will be used to identify areas in need of urgent assistance and direct relief efforts to those areas. It will also be forwarded to government and other humanitarian agencies in deciding where to conduct aerial assessments.
+- They are provided with information collected from chatbot and location.
+- We are using **AI-based** image recognition and classification to **assess** the **damage** by analyzing and observing images from the satellites. It will identify objects and features such as damaged buildings, flooding, blocked roads from these images. It can also identify **temporary settlements** which may indicate that people are homeless, and so the **first care** could be directed towards them.
+- We crunch data from multiple resources and use Machine learning approaches to combine all this together, remove unreliable data, and identify informative sources to generate **heat maps.** These heat maps will be used to identify areas in need of urgent assistance and direct relief efforts to those areas. It will also be forwarded to government and other humanitarian agencies in deciding where to conduct aerial assessments.
 
 
  
