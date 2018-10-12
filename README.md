@@ -21,3 +21,4 @@ First responders :
 They are provided with information collected from chatbot and location
 We are using AI-based image recognition and classification to assess the damage by analyzing and observing images from the satellites. It will identify objects and features such as damaged buildings, flooding, blocked roads from these images. It can also identify temporary settlements which may indicate that people are homeless, and so the first care could be directed towards them.
 We crunch data from multiple resources and use Machine learning approaches to combine all this together, remove unreliable data, and identify informative sources to generate heat maps. These heat maps will be used to identify areas in need of urgent assistance and direct relief efforts to those areas. It will also be forwarded to government and other humanitarian agencies in deciding where to conduct aerial assessments.
+
